@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+ <title>AJAX with PHP, 2nd Edition: Quickstart</title>
+ <script type="text/javascript" src="quickstart.js"></script>
+ </head>
+ <body onload='process()'>
+ 	<form  method="post" action="">
+ Server wants to know your name:
+ <input type="text" id="myName" />
+</form>
+ <div id="divMessage" />
+
+ </body>
+</html>
